@@ -10,5 +10,8 @@ The project consists of following packages:
  - exampleGenecticPolynom2
  - exampleMiniMax
  - exampleNeuron
+ - examples
  
+ *** RUNNING ***
  
+ Run -> examples.Main
