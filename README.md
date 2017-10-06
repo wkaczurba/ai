@@ -1,4 +1,4 @@
-# ai
+# Simple Examples of Artificial Intelligence algorithms + basic game.
 
 Implementation of basics of Artificial Intelligence.
 
